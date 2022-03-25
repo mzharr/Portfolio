@@ -151,7 +151,7 @@ body {
   min-height: calc(100vh - 40px);
 }
 .page-container {
-  height: auto;
+  height: 750px;
   width: 800px;
   margin: 10px;
   background-color: #e7f3f8;
