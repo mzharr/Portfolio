@@ -97,3 +97,13 @@ form .input-box span.details {
     flex-direction: column;
   }
 }
+
+@media (max-width: 500px) {
+  .container {
+    width: 100%;
+  }
+
+  .Welcome {
+    display: none;
+  }
+}
