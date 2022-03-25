@@ -47,6 +47,7 @@ img {
   flex-wrap: wrap;
   margin-top: 70px;
   margin-bottom: 250px;
+  min-height: calc(100vh - 40px);
 }
 
 .mebox {
@@ -85,6 +86,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  min-height: calc(100vh - 40px);
 }
 
 .container h1 {
@@ -146,6 +148,7 @@ body {
 .page-container1 {
   display: flex;
   justify-content: center;
+  min-height: calc(100vh - 40px);
 }
 .page-container {
   height: auto;
